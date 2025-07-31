@@ -17,8 +17,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=regisfilhodev&show_icons=true&hide_title=true&hide_border=true&bg_color=ededed&title_color=444&text_color=333&icon_color=555" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regisfilhodev&layout=compact&hide_border=true&bg_color=ededed&title_color=444&text_color=333" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=regisfilhodev&show_icons=true&hide_title=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regisfilhodev&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" />
 </div>
 
 ---
