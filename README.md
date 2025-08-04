@@ -31,7 +31,7 @@
 
 ---
 
-## 📫 Contato
+## 📫 Contatos
 
 - Portfólio: [portfólio](https://portifolioregisdev.vercel.app/)  
 - LinkedIn: [linkedin.com/in/regis-filho](https://linkedin.com/in/regis-filho)  
